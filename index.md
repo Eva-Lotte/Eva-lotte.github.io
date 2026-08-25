@@ -1,3 +1,4 @@
 ![image](images/1.png)
 
-[Next](page2.md) 
+### [Next](page2.md)
+## ☞ 1 ❧ [2](page2.md) ❧ [3](page3.md) ❧ [4](page4.md) ❧ [5](page5.md) ❧ [6](page6.md) ❧ [7](page7.md) ❧ [8](page8.md) ❧ [9](page9.md)  
