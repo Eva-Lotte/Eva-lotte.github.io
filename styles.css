@@ -1,0 +1,50 @@
+
+.container {
+  display: flex;
+  justify-content: center; 
+}
+
+.illustration {
+  width: 70vw;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.overlay {
+  position: relative;
+  display: inline-block;
+}
+
+.svg-layer {
+  position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+}
+
+.circle:hover {
+  fill: #aabb33;
+  stroke: #6d4aff;
+  cursor: pointer;
+}
+
+.tooltip { 
+  display: none; 
+  background: #eeeeee;
+  color: #222222; 
+  padding: 8px 12px;
+  border-radius: 8px; 
+  font-size: 16px;
+  text-align: leading; 
+}
+
+.hotspot:hover .tooltip {
+  display: block;
+}
+
+.pagination {
+  display: flex;
+  gap: 20px;  /* Space between links */
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 24px 0;
+  font-size: 24px;
+}
