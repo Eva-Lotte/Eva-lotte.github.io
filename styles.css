@@ -1,4 +1,10 @@
 
+.title {
+  font-size: 32px;
+  display: flex;
+  Margin: 0px 50px;
+}
+
 .tooltip { 
   display: none; 
   background: #fff0dc;
