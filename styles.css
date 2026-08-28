@@ -1,12 +1,12 @@
 
 .tooltip { 
   display: none; 
-  background: #eeeeee;
+  background: #fff0dc;
   color: #222222; 
   padding: 8px 12px;
   border-radius: 8px; 
-  font-size: 16px;
-  font-family: "georgia";
+  font-size: 14px;
+  font-family: "geneva";
   text-align: leading; 
 }
 
