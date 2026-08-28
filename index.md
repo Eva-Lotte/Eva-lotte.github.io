@@ -21,3 +21,5 @@ Diese Open Educational Resource ist unter der Creative Commons Attribution 4.0 I
 
 PS: Hier [mehr Kunst](https://www.pixiv.net/en/users/111957776) und hier [mehr Mediävistisches](https://rebpaf.wordpress.com/2025/02/13/a-romeo-and-juliet-bible-fragmen-story)
 
+
+[English](en.md)
