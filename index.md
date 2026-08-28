@@ -1,13 +1,14 @@
 
 
-## Historische Narratologie
+## Titel
 
-Das folgende Comic "" ist dazu gedacht, Interessierten historische Narratologie näherzubringen. Zum Selbststudium, für den schulischen oder universitären Unterricht, Tagungs-Workshops, etc.!
+Das folgende Comic "Titel" ist dazu gedacht, Interessierten historische Narratologie näherzubringen. Zum Selbststudium, für den schulischen oder universitären Unterricht, Tagungs-Workshops, etc.!
 
-|:-:|:-:|
-| Herzlich,<br>Eva-Lotte Gebhardt (bald Dr. der Germanistik)<br>eva-lotte.gebhardt@protonmail.com | ![Alt text](images/narrator.png) |
+Herzlich,  
+Eva-Lotte Gebhardt (bald Dr. der Germanistik)  
+eva-lotte.gebhardt@protonmail.com 
 
-[Titel](page1.html)  
+Hier geht's zu [Titel](page1.html)  
 (Wenn man über die blauen Punkte hovert, erscheinen Erklärungen)
 
 Diese Open Educational Resource ist unter der Creative Commons Attribution 4.0 International lizensiert, und darf für beliebige Zwecke geteilt, vervielfältigt und weiterverarbeitet werden. Kommerzielle Nutzung ist ebenfalls erlaubt. Bei jeder Veröffentlichung muss die Urheberin genannt werden, ebenso wie die Lizenz und vorgenommene Änderungen. Das Material darf nur unter der gleichen Lizenz wie das Original verbreitet werden. 
