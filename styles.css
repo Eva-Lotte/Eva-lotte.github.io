@@ -33,7 +33,7 @@
   margin: 0 auto;
 }
 
-.circle:hover {
+.circle:hover, .circle:active {
   fill: #aabb33;
   stroke: #6d4aff;
   cursor: pointer;
