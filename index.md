@@ -5,10 +5,7 @@
 Das folgende Comic "" ist dazu gedacht, Interessierten historische Narratologie näherzubringen. Zum Selbststudium, für den schulischen oder universitären Unterricht, Tagungs-Workshops, etc.!
 
 |:-:|:-:|
-|<p>Herzlich,    
-Eva-Lotte Gebhardt (bald Dr. der Germanistik)    
-eva-lotte.gebhardt@protonmail.com
-</p>|![Alt text](images/narrator.png)|
+| Herzlich,<br>Eva-Lotte Gebhardt (bald Dr. der Germanistik)<br>eva-lotte.gebhardt@protonmail.com | ![Alt text](images/narrator.png) |
 
 [Titel](page1.html)  
 (Wenn man über die blauen Punkte hovert, erscheinen Erklärungen)
