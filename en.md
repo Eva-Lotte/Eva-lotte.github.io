@@ -4,10 +4,10 @@ The following comic "Concept Contest with Storily Praise" is intended to explain
 
 Kind regards,   
 Eva-Lotte Gebhardt    
-PhD candidate at the University of Vienna    
-eva-lotte.gebhardt@protonmail.com
+<small>PhD candidate at the University of Vienna    
+eva-lotte.gebhardt@protonmail.com</small>
 
-[Concept Contest with Storily Praise](page1.html)   
+# [Concept Contest with Storily Praise](page1.html)   
 (Explanations appear when hovering over the blue dots)
 
 <small>This Open Educational Resource is published under the CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) licence and may be modified and distributed for any purpose. Commercial use is not permitted, either in its original form or in a modified form. The author must be credited in every publication, but adaptations are not bound by the original licence.</small>
