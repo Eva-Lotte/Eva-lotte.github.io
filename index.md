@@ -11,7 +11,7 @@ eva-lotte.gebhardt@protonmail.com
 Hier geht's zu [Titel](page1.html)  
 (Wenn man über die blauen Punkte hovert, erscheinen Erklärungen)
 
-Diese Open Educational Resource ist unter der Creative Commons Attribution 4.0 International lizensiert, und darf für beliebige Zwecke geteilt, vervielfältigt und weiterverarbeitet werden. Kommerzielle Nutzung ist ebenfalls erlaubt. Bei jeder Veröffentlichung muss die Urheberin genannt werden, ebenso wie die Lizenz und vorgenommene Änderungen. Das Material darf nur unter der gleichen Lizenz wie das Original verbreitet werden. 
+<small>Diese Open Educational Resource ist unter der Creative Commons Attribution 4.0 International lizensiert, und darf für beliebige Zwecke geteilt, vervielfältigt und weiterverarbeitet werden. Kommerzielle Nutzung ist ebenfalls erlaubt. Bei jeder Veröffentlichung muss die Urheberin genannt werden, ebenso wie die Lizenz und vorgenommene Änderungen. Das Material darf nur unter der gleichen Lizenz wie das Original verbreitet werden.</small>
 
 ![Alt text](images/narrator2.png)
 
