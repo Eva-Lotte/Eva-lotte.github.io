@@ -1,5 +1,3 @@
-## Concept Contest with Storily Praise
-
 The following comic "Concept Contest with Storily Praise" is intended to explain historical narratology. Please use it for self study, as teaching material in schools or at universities, workshops, or whatever else!
 
 Kind regards,   

@@ -1,5 +1,3 @@
-## Konzeptkrieg auf der Geschichtsburg
-
 Das folgende Comic "Konzeptkrieg auf der Geschichtsburg" ist dazu gedacht, Interessierten historische Narratologie näherzubringen. Zum Selbststudium, für den schulischen oder universitären Unterricht, Tagungs-Workshops, etc.!
 
 Herzlich,  
