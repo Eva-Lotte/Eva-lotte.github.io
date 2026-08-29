@@ -15,7 +15,7 @@ eva-lotte.gebhardt@protonmail.com
 
 ![Alt text](images/narrator2.png)
 
-PS: [More art](https://www.pixiv.net/en/users/111957776) and [more medieval studies](https://rebpaf.wordpress.com/2025/02/13/a-romeo-and-juliet-bible-fragmen-story/)
+PS: [More art](https://www.pixiv.net/en/users/111957776) and [more medieval studies](https://rebpaf.wordpress.com/2025/02/13/a-romeo-and-juliet-bible-fragment-story/)
 
 
 [Deutsch](index.md)
