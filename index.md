@@ -1,11 +1,10 @@
-
-
 ## Titel
 
 Das folgende Comic "Titel" ist dazu gedacht, Interessierten historische Narratologie näherzubringen. Zum Selbststudium, für den schulischen oder universitären Unterricht, Tagungs-Workshops, etc.!
 
 Herzlich,  
-Eva-Lotte Gebhardt (bald Dr. der Germanistik)  
+Eva-Lotte Gebhardt  
+Praedoc an der Universität Wien
 eva-lotte.gebhardt@protonmail.com 
 
 Hier geht's zu [Titel](page1.html)  
@@ -17,7 +16,6 @@ Hier geht's zu [Titel](page1.html)
 
 
 
-PS: Hier [mehr Kunst](https://www.pixiv.net/en/users/111957776) und hier [mehr Mediävistisches](https://rebpaf.wordpress.com/2025/02/13/a-romeo-and-juliet-bible-fragmen-story)
-
+PS: Hier [mehr Kunst](https://www.pixiv.net/en/users/111957776) und hier [mehr Mediävistisches](https://rebpaf.wordpress.com/2025/02/13/a-romeo-and-juliet-bible-fragment-story/)
 
 [English](en.md)

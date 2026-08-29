@@ -3,7 +3,8 @@
 The following comic "Titel" is intended to explain historical narratology. Please use it for self study, as teaching material in schools or at universities, workshops, or whatever else!
 
 Kind regards,
-Eva-Lotte Gebhardt (soon-to-be PhD in medieval studies)
+Eva-Lotte Gebhardt
+PhD candidate at the University of Vienna
 eva-lotte.gebhardt@protonmail.com
 
 [Titel](page1.html)
@@ -14,7 +15,7 @@ eva-lotte.gebhardt@protonmail.com
 
 ![Alt text](images/narrator2.png)
 
-PS: [More art](https://www.pixiv.net/en/users/111957776) and [more medieval studies](https://rebpaf.wordpress.com/2025/02/13/a-romeo-and-juliet-bible-fragmen-story)
+PS: [More art](https://www.pixiv.net/en/users/111957776) and [more medieval studies](https://rebpaf.wordpress.com/2025/02/13/a-romeo-and-juliet-bible-fragmen-story/)
 
 
 [Deutsch](index.md)
