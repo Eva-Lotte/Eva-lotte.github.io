@@ -9,7 +9,8 @@ eva-lotte.gebhardt@protonmail.com
 [Titel](page1.html)
 (Explanations appear when hovering over the blue dots)
 
-This Open Educational Resource is licensed under Creative Commons Attribution 4.0 International, and may be shared, reproduced, and adapted for any purpose. Commercial use is also permitted. Upon publication, the creator must be credited, as must the license and any changes made. The material may only be distributed under the same license as the original.
+<small>This Open Educational Resource is published under the CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) licence and may be modified and distributed for any purpose. Commercial use is not permitted, either in its original form or in a modified form. The author must be credited in every publication, but adaptations are not bound by the original licence.</small>
+
 
 ![Alt text](images/narrator2.png)
 

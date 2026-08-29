@@ -11,9 +11,7 @@ eva-lotte.gebhardt@protonmail.com
 Hier geht's zu [Titel](page1.html)  
 (Wenn man über die blauen Punkte hovert, erscheinen Erklärungen)
 
-<small>Diese Open Educational Resource ist unter der CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) Lizenz veröffentlicht, und darf für beliebige Zwecke geteilt, vervielfältigt und weiterverarbeitet werden. Kommerzielle Nutzung ist weder im Original noch in einer geänderten Form zulässig. Diese Lizenz wird z. B. vom Massachusetts Institute of Technology (MIT) im Open Courseware Project (OCW) ve
-
-Kommerzielle Nutzung erlaubt. Bei jeder Veröffentlichung muss die Urheberin genannt werden, ebenso wie die Lizenz und vorgenommene Änderungen. Das Material darf nur unter der gleichen Lizenz wie das Original verbreitet werden.</small>
+<small>Diese Open Educational Resource ist unter der CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) Lizenz veröffentlicht und darf für beliebige Zwecke verändert und verbreitet werden. Kommerzielle Nutzung ist weder im Original noch in geänderter Form erlaubt. Bei jeder Veröffentlichung muss die Urheberin genannt werden, aber Bearbeitungen sind nicht an die Ursprungslizenz gebunden.</small>
 
 ![Alt text](images/narrator2.png)
 
