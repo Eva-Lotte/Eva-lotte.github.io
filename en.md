@@ -7,7 +7,7 @@ Eva-Lotte Gebhardt
 <small>PhD candidate at the University of Vienna    
 eva-lotte.gebhardt@protonmail.com</small>
 
-<span style="font-size: 32px;">[Concept Contest with Storily Praise](page1.html)</span>
+<span style="font-size: 32px;">[Concept Contest with Storily Praise](page1.html)</span>   
 (Explanations appear when hovering over the blue dots)
 
 <small>This Open Educational Resource is published under the CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) licence and may be modified and distributed for any purpose. Commercial use is not permitted, either in its original form or in a modified form. The author must be credited in every publication, but adaptations are not bound by the original licence.</small>

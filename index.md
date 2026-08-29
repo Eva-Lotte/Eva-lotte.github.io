@@ -7,7 +7,7 @@ Eva-Lotte Gebhardt
 <small>Praedoc an der Universität Wien     
 eva-lotte.gebhardt@protonmail.com</small> 
 
-# Hier geht's zu [Konzeptkrieg auf der Geschichtsburg](page1.html)  
+<span style="font-size: 32px;">[Konzeptkrieg auf der Geschichtsburg](page1.html)</span>    
 (Wenn man über die blauen Punkte hovert, erscheinen Erklärungen)
 
 <small>Diese Open Educational Resource ist unter der CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) Lizenz veröffentlicht und darf für beliebige Zwecke verändert und verbreitet werden. Kommerzielle Nutzung ist weder im Original noch in geänderter Form erlaubt. Bei jeder Veröffentlichung muss die Urheberin genannt werden, aber Bearbeitungen sind nicht an die Ursprungslizenz gebunden.</small>
