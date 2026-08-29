@@ -4,7 +4,7 @@ Das folgende Comic "Konzeptkrieg auf der Geschichtsburg" ist dazu gedacht, Inter
 
 Herzlich,  
 Eva-Lotte Gebhardt  
-Praedoc an der Universität Wien
+	Praedoc an der Universität Wien     
 eva-lotte.gebhardt@protonmail.com 
 
 Hier geht's zu [Konzeptkrieg auf der Geschichtsburg](page1.html)  
