@@ -11,7 +11,7 @@ Please use it for self-study or school and university lessons!
 I’d be happy to receive your feedback and suggestions and I’d be particularly happy if "Storytime" proved useful for teaching and learning!
 
 Kind regards,
-Eva-Lotte Gebhardt
+Eva-Lotte Gebhardt    
 <small>eva-lotte.gebhardt@protonmail.com</small>
 
 ![Alt text](images/narrator2.png)
