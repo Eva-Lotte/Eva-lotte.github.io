@@ -17,7 +17,7 @@ Eva-Lotte Gebhardt
 
 ![Alt text](images/narrator2.png)
 
-PS: Hier [mehr Kunst](https://www.pixiv.net/en/users/111957776) und hier [mehr Mediävistisches](https://rebpaf.wordpress.com/2025/02/13/a-romeo-and-juliet-bible-fragment-story/)
+PS: Hier gibt es [mehr Kunst](https://www.pixiv.net/en/users/111957776) von mir zu sehen und hier [mehr Mediävistisches](https://rebpaf.wordpress.com/2025/02/13/a-romeo-and-juliet-bible-fragment-story/) von mir zu lesen
 
 <small>Diese Open Educational Resource ist unter der CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) Lizenz veröffentlicht und darf für beliebige Zwecke verändert und verbreitet werden. Kommerzielle Nutzung ist weder im Original noch in geänderter Form erlaubt. Bei jeder Veröffentlichung muss die Urheberin genannt werden, aber Bearbeitungen sind nicht an die Ursprungslizenz gebunden.</small>
 
