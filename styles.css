@@ -4,7 +4,7 @@
 
 body {
   background-color: var(--color-parchment);
-  background-image: url('assets/parchment2.jpg');
+  background-image: url('assets/parchment.png');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -15,15 +15,15 @@ body {
   Margin: 0px 50px;
 }
 
-.tooltip { 
-  display: none; 
+.tooltip {
+  display: none;
   background: #fff0dc;
-  color: #222222; 
+  color: #222222;
   padding: 8px 12px;
-  border-radius: 8px; 
+  border-radius: 8px;
   font-size: 16px;
   font-family: "geneva";
-  text-align: leading; 
+  text-align: leading;
 }
 
 .pagination {
@@ -52,7 +52,7 @@ body {
 /* Layers */
 .container {
   display: flex;
-  justify-content: center; 
+  justify-content: center;
 }
 
 .overlay {
