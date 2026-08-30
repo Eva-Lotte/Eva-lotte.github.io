@@ -27,7 +27,7 @@
 }
 
 .illustration {
-  width: 70vw;
+  width: 60vw;
   height: auto;
   display: block;
   margin: 0 auto;
@@ -37,6 +37,13 @@
   fill: #aabb33;
   stroke: #6d4aff;
   cursor: pointer;
+}
+
+body {
+  background-color: #f9f5f1;
+  background-image: url('images/parchmentDark.png');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 /* Layers */
