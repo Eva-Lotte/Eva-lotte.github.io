@@ -16,7 +16,7 @@ Eva-Lotte Gebhardt
 
 ![Alt text](images/narrator2.png)
 
-PS: Here you can see [more art](https://www.pixiv.net/en/users/111957776) from me and here you can read [more medieval and early modern studies](https://rebpaf.wordpress.com/2025/02/13/a-romeo-and-juliet-bible-fragment-story/) from me.
+PS: Here you can see [more art](https://www.pixiv.net/en/users/111957776) from me and read [more medieval and early modern studies](https://rebpaf.wordpress.com/2025/02/13/a-romeo-and-juliet-bible-fragment-story/)
 
 <small>This Open Educational Resource is published under the CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) licence and may be modified and distributed for any purpose. Commercial use is not permitted, either in its original form or in a modified form. The author must be credited in every publication, but adaptations are not bound by the original licence.</small>
 
