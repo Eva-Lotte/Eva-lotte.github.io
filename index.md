@@ -5,7 +5,6 @@ Andererseits hat es mich auch interessiert, auszuprobieren, inwieweit die schema
 
 Das folgende Comic "Storytime" ist eine Open Educational Resource, dazu gedacht, Interessierten historische Narratologie näherzubringen.
 Inspiriert vom Codex Manesse wurde es mit Bleistift auf Papier gezeichnet und mit Acryl- und Aquarellfarben, Tinte, Buntstiften und Markern koloriert. Pergamenthintergrund und Text wurden im Anschluss digital hinzugefügt.
-
 Ich würde mich freuen, wenn "Storytime" vielseitige Verwendung finden würde, für das Selbststudium oder im schulischen und universitären Unterricht!
 
 <span style="font-size: 32px;">[Storytime](page1.html)</span>    

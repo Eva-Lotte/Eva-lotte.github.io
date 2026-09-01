@@ -4,7 +4,6 @@ Through my teaching at the University of Vienna, I came up with the idea to crea
 
 The following comic, "Storytime", is an Open Educational Resource designed to introduce those interested to the field of historical narratology.
 Inspired by the Codex Manesse it was hand-drawn with pencil on paper and coloured with acrylic and watercolour paint, ink, coloured pencil, and markers. The parchment background and text were added in digitally.
-
 Please use it for self-study or school and university lessons!
 
 <span style="font-size: 32px;">[Storytime](page1.html)</span>   
