@@ -4,7 +4,9 @@ Im Rahmen meiner Lehrtätigkeit an der Universität Wien bin ich auf die Idee ge
 Andererseits hat es mich auch interessiert, auszuprobieren, inwieweit die schematische Darstellung mittelalterlicher Buchmalerei sich für das Medium Comic eignet. Das Comic ist schließlich auf Vereinfachung angewiesen, wenigstens wenn es viele Seiten umspannen will, und auch auf Schematik, da dies Wiedererkennung und die Vermittlung bestimmter Konzepte über eine etablierte Bildsprache erst ermöglicht.
 
 Das folgende Comic "Storytime" ist eine Open Educational Resource, dazu gedacht, Interessierten historische Narratologie näherzubringen.
-Ich würde mich freuen, wenn es vielseitige Verwendung finden würde, für das Selbststudium oder im schulischen und universitären Unterricht!
+Inspiriert vom Codex Manesse wurde es mit Bleistift auf Papier gezeichnet und mit Acryl- und Aquarellfarben, Tinte, Buntstiften und Markern koloriert. Pergamenthintergrund und Text wurden im Anschluss digital hinzugefügt.
+
+Ich würde mich freuen, wenn "Storytime" vielseitige Verwendung finden würde, für das Selbststudium oder im schulischen und universitären Unterricht!
 
 <span style="font-size: 32px;">[Storytime](page1.html)</span>    
 (Wenn man über die blauen Punkte hovert, erscheinen Erklärungen)

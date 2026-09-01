@@ -3,6 +3,8 @@ I am Eva-Lotte Gebhardt and at the moment a doctoral researcher at the Universit
 Through my teaching at the University of Vienna, I came up with the idea to create a comic with a medieval aesthetic that conveys historical narratology. On the one hand this visual and narrating approach is supposed to facilitate understanding and increase memorability of narratological concepts. On the other hand, I was interested in exploring how useful the aesthetic of medieval book illustration would prove to create a comic. After all, comic as a medium needs simplification if it intends to span many pages, but also schematics, as this enables recognition as well as conveying concepts through an established visual language. 
 
 The following comic, "Storytime", is an Open Educational Resource designed to introduce those interested to the field of historical narratology.
+Inspired by the Codex Manesse it was hand-drawn with pencil on paper and coloured with acrylic and watercolour paint, ink, coloured pencil, and markers. The parchment background and text were added in digitally.
+
 Please use it for self-study or school and university lessons!
 
 <span style="font-size: 32px;">[Storytime](page1.html)</span>   
