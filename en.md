@@ -5,7 +5,7 @@ Please use it for self-study or school and university lessons!
 <span style="font-size: 32px;">[Storytime](page1.html)</span>   
 (Explanations appear when hovering over the blue dots)
 
-I’d be happy to receive your feedback and suggestions and I’d be particularly happy if "Storytime" proved useful for teaching and learning!
+I’d be happy to receive your feedback and suggestions and I’d be particularly happy if "Storytime" proved useful for teaching and learning.
 
 Kind regards,    
 Eva-Lotte Gebhardt        
@@ -17,7 +17,7 @@ Through my teaching at the University of Vienna, I came up with the idea to crea
 
 ![Alt text](images/narrator2.png)
 
-PS: Here you can see [more art](https://www.pixiv.net/en/users/111957776) from me and read [more medieval and early modern studies](https://rebpaf.wordpress.com/2025/02/13/a-romeo-and-juliet-bible-fragment-story/)
+PS: Here you can see [more art](https://www.pixiv.net/en/users/111957776) and read [more medieval and early modern studies](https://rebpaf.wordpress.com/2025/02/13/a-romeo-and-juliet-bible-fragment-story/)
 
 <small>This Open Educational Resource is published under the CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) licence and may be modified and distributed for any purpose. Commercial use is not permitted, either in its original form or in a modified form. The author must be credited in every publication, but adaptations are not bound by the original licence.</small>
 

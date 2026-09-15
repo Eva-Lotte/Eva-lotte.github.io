@@ -5,7 +5,7 @@ Ich würde mich freuen, wenn "Storytime" vielseitige Verwendung finden würde, f
 <span style="font-size: 32px;">[Storytime](page1.html)</span>    
 (Wenn man über die blauen Punkte hovert, erscheinen Erklärungen)
 
-Ich freue mich über Feedback und Vorschläge und vor allem, wenn "Storytime" für Lehren und Lernen von Nutzen sein kann! 
+Ich freue mich über Feedback und Vorschläge und vor allem, wenn "Storytime" für Lehren und Lernen von Nutzen sein kann. 
 
 Herzlich,  
 Eva-Lotte Gebhardt     
